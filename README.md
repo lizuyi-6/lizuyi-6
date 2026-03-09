@@ -1,172 +1,73 @@
-<!--
- * @Author: Abraham Li (李祖祎)
- * @Email: 2251213429@qq.com | 15227225280
- * @Company: 杭州视界奇点科技有限公司
- * @GitHub: https://github.com/lizuyi-6
--->
+<!-- 顶部横幅图片 -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Abraham%20Li%20(李祖祎)&fontSize=50&fontAlignY=35" width="100%" />
 
-<div align="center">
+**Hi there 👋, 我是一名热爱技术的开发者!**
 
-# 👋 Hi, I'm Abraham Li (李祖祎)
+**👨‍💻 AI 协同先锋 / 终身学习者 / 全栈工程师**
 
-[![GitHub Stars](https://img.shields.io/github/stars/lizuyi-6?style=flat-square&logo=github)](https://github.com/lizuyi-6)
-[![GitHub Followers](https://img.shields.io/github/followers/lizuyi-6?style=flat-square&logo=github)](https://github.com/lizuyi-6)
-[![Visitors](https://komarev.com/ghpvc/?username=lizuyi-6&style=flat-square&color=blue)](https://github.com/lizuyi-6)
-
-**🎓 廊坊师范学院 · 计算机科学与技术 (2026 级)**  
-**🚀 杭州视界奇点科技有限公司 · 创始人**  
-**💻 Web 全栈 / AI 应用开发**
-
-[📫 联系我](#-联系方式) | [🏢 我的公司](#-我的公司) | [📂 我的项目](#-精选项目) | [🛠️ 技术栈](#️-技术栈)
-
-</div>
+这里是我的 GitHub 宇宙！我热衷于探索新技术，构建有趣且有价值的软件，并持续参与开源社区。我相信技术可以改变世界，而分享是技术发展的源动力。
 
 ---
 
-## 🎯 About Me
+## 🙋‍♂️ 关于我
 
-> **"代码不会说谎，它诚实地记录了你当时的水平和思考方式。"**
-
-- 🌱 **大一创业** - 19 岁创立杭州视界奇点科技有限公司
-- 💻 **全栈开发** - 从嵌入式 C/C++ 到 Web 全栈，再到 AI 应用
-- 🤖 **AI 爱好者** - 热衷于将 LLM 技术融入实际应用
-- 🏆 **实战派** - 25+ GitHub 项目，150+ 交付项目
-- 🎤 **多元发展** - 说唱、跳舞、篮球爱好者
-
----
-
-## 🏢 我的公司
-
-<div align="center">
-
-### 杭州视界奇点科技有限公司 (Visularity)
-
-**数字体验设计工作室**
-
-[www.visularity.cn](https://www.visularity.cn) · 浙 ICP 备 2026009621 号 -1
-
-| 指标 | 数据 |
-|------|------|
-| 📦 完成项目 | **150+** |
-| ⭐ 客户满意度 | **98%** |
-| 🏆 行业奖项 | **12** |
-| 📍 地址 | 杭州市西湖区文三路 478 号 |
-| 📧 邮箱 | lizu@shijieqidian.cn |
-
-**代表作品**: AR 移动应用 · 电商平台 · 数据可视化 · 品牌设计
-
-</div>
+- 🔭 我目前正在开发 **AI 赋能项目与全栈应用**，大一创立杭州视界奇点科技有限公司
+- 🌱 我目前正在深入学习 **大语言模型应用开发与系统架构设计**
+- 👯 我希望能在一个有趣的项目上进行合作，特别是 **开源的效率工具或创意 Web 项目**
+- 📝 我偶尔会在我的博客上分享 **技术踩坑记录、源码解析和 AI 调教指南**
+- 💬 你可以向我请教关于 **JavaScript/TypeScript 生态、React、Python 以及自动化流** 的问题
+- 📫 联系方式: **2251213429@qq.com** | 15227225280
+- ⚡ 趣味小知识: **我的大部分优质代码，都是在半夜一边喝咖啡，一边和 AI 结对编程写出来的 ☕🤖**
+- 🏢 公司信息: **杭州视界奇点科技有限公司** · [www.visularity.cn](https://www.visularity.cn)
 
 ---
 
-## 🛠️ 技术栈
+## 🛠️ 技术栈与工具
 
-<div align="center">
-
-### 编程语言
-![C/C++](https://img.shields.io/badge/C/C++-Expert-blue?style=flat-square&logo=c)
-![Python](https://img.shields.io/badge/Python-Advanced-green?style=flat-square&logo=python)
-![TypeScript](https://img.shields.io/badge/TypeScript-Advanced-blue?style=flat-square&logo=typescript)
-![JavaScript](https://img.shields.io/badge/JavaScript-Advanced-yellow?style=flat-square&logo=javascript)
-
-### 前端技术
-![React](https://img.shields.io/badge/React-Intermediate-61dafb?style=flat-square&logo=react)
-![Vue.js](https://img.shields.io/badge/Vue.js-Intermediate-4fc08d?style=flat-square&logo=vue.js)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-Intermediate-38bdf8?style=flat-square&logo=tailwind-css)
-
-### 后端技术
-![Node.js](https://img.shields.io/badge/Node.js-Advanced-339933?style=flat-square&logo=node.js)
-![Express/Koa](https://img.shields.io/badge/Express/Koa-Intermediate-000000?style=flat-square)
-![Flask/FastAPI](https://img.shields.io/badge/Flask/FastAPI-Intermediate-009688?style=flat-square&logo=flask)
-
-### AI & 嵌入式
-![LLM](https://img.shields.io/badge/LLM_API-RAG_Agent-orange?style=flat-square&logo=openai)
-![PyTorch](https://img.shields.io/badge/PyTorch-Basic-ee4c2c?style=flat-square&logo=pytorch)
-![Arduino/ESP32](https://img.shields.io/badge/Arduino/ESP32-Intermediate-00979d?style=flat-square&logo=arduino)
-![STM32](https://img.shields.io/badge/STM32-Intermediate-000000?style=flat-square&logo=arm)
-
-### 工具链
-![Git/GitHub](https://img.shields.io/badge/Git/GitHub-Advanced-f05032?style=flat-square&logo=git)
-![Docker](https://img.shields.io/badge/Docker-Intermediate-2496ed?style=flat-square&logo=docker)
-![Linux](https://img.shields.io/badge/Linux_Ubuntu-Intermediate-fcc624?style=flat-square&logo=ubuntu)
-![VS Code](https://img.shields.io/badge/VS_Code-Cursor_Expert-007acc?style=flat-square&logo=visual-studio-code)
-
-</div>
+<!-- 使用 skillicons 展示技术栈 -->
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,ts,python,react,nextjs,vue,nodejs,tailwind,mysql,docker,git,linux,vscode,figma,arduino,esp32&perline=12" />
+  </a>
+</p>
 
 ---
 
-## 📂 精选项目
+## 📊 GitHub 统计数据
 
-<div align="center">
-
-| 项目 | 技术栈 | 描述 | Stars |
-|------|--------|------|-------|
-| [**Networksafe**](https://github.com/lizuyi-6/Networksafe) | TypeScript + React | 🛡️ 智能服务器安全防御平台 | 🔒 |
-| [**aethermind**](https://github.com/lizuyi-6/aethermind) | Python | 🤖 AI 智能体 + 50 万字报告生成 | ⭐ |
-| [**manus**](https://github.com/lizuyi-6/manus) | Python | 🤖 OpenManus Agent 框架 | ⭐1 |
-| [**studio**](https://github.com/lizuyi-6/studio) | JavaScript | 🎨 公司官网/作品集 | 🔒 |
-| [**ls01**](https://github.com/lizuyi-6/ls01) | TypeScript | 🚀 创新实验项目 | ⭐ |
-| [**day1**](https://github.com/lizuyi-6/day1) | Vue | 📚 学习记录 | ⭐ |
-
-📦 **更多历史项目已归档至** → [code-journal](https://github.com/lizuyi-6/code-journal)
-
-</div>
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lizuyi-6&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lizuyi-6&layout=compact&theme=radical"/>
+</p>
 
 ---
 
-## 📈 GitHub 统计
+## 🔥 GitHub 活跃度
 
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lizuyi-6&show_icons=true&theme=radical&hide_border=true&bg_color=00000000)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lizuyi-6&layout=compact&theme=radical&hide_border=true&bg_color=00000000)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=lizuyi-6&theme=radical&hide_border=true&bg_color=00000000)
-
-</div>
-
----
-
-## 🎓 学习路线
-
-### 2026 年目标
-- [ ] **英语四级** (目标 550+)
-- [ ] **软考程序员** → 软件设计师
-- [ ] **Web 全栈进阶** - Next.js 15 + React Server Components
-- [ ] **AI 应用深化** - RAG + Agent + Fine-tuning
-- [ ] **开源影响力** - 目标 100+ Stars
-
-### 长期规划
-- 🎯 **国企/事业单位方向** - 证书 + 项目双修
-- 🎯 **技术深度** - 从应用层到底层原理
-- 🎯 **商业思维** - 创业实战 + 客户交付
+<!-- GitHub 贡献贪吃蛇动画 -->
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" width="100%">
+  </picture>
+</p>
 
 ---
 
-## 💬 名言
+## 🤝 社交与联系方式
 
-> **"成长不止，代码不息"**
-
-> **"双非院校不占优势，那就用证书 + 项目 + 技能提升竞争力"**
-
----
-
-## 📫 联系方式
-
-<div align="center">
-
-| 渠道 | 联系方式 |
-|------|----------|
-| 📧 **Email** | [2251213429@qq.com](mailto:2251213429@qq.com) |
-| 📱 **手机** | 15227225280 |
-| 🏢 **公司邮箱** | [lizu@shijieqidian.cn](mailto:lizu@shijieqidian.cn) |
-| 🌐 **公司官网** | [www.visularity.cn](https://www.visularity.cn) |
-| 💬 **微信** | (私信获取) |
-
-**📍 位置**: 中国·北京 (学校) / 杭州 (公司)
-
-</div>
+<p align="left">
+  <a href="mailto:2251213429@qq.com" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="email" height="30" width="40" />
+  </a>
+  <a href="https://github.com/lizuyi-6" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="github" height="30" width="40" />
+  </a>
+  <a href="https://www.visularity.cn" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/website.svg" alt="website" height="30" width="40" />
+  </a>
+</p>
 
 ---
 
@@ -179,6 +80,6 @@
 ---
 
 *Last Updated: 2026-03-09*  
-*Made with ❤️ by Abraham Li*
+*Made with ❤️ by Abraham Li (李祖祎)*
 
 </div>
