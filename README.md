@@ -1,8 +1,8 @@
 <div align="center">
 
-# 👋 你好，我是 **李祖祎** (Abraham Li)
+# 你好，我是 **李祖祎** (Abraham Li)
 
-> *"18岁，用代码构建世界"* 🚀
+> *"18岁，用代码构建世界"*
 
 <img src="https://img.shields.io/badge/大一学生-廊坊师范学院-0078D4?style=flat-square&logo=microsoft-academic&logoColor=white" />
 <img src="https://img.shields.io/badge/创始人-杭州视界奇点科技-FF6B6B?style=flat-square&logo=vercel&logoColor=white" />
@@ -11,20 +11,20 @@
 
 ---
 
-## 🎯 About Me
+## About Me
 
 我不是那种只会听课的学生。当同龄人还在适应大学生活时，我已经创立了自己的科技公司。
 
-- 🎓 **大一在读** | 廊坊师范学院 · 计算机科学与技术
-- 🏢 **公司创始人** | 杭州视界奇点科技有限公司
-- 💻 **全栈开发者** | 从嵌入式到 Web，从硬件到云端
-- 🌍 **愿景** | 用技术让创意变成现实，帮助更多企业数字化升级
+- **大一在读** | 廊坊师范学院 · 计算机科学与技术
+- **公司创始人** | 杭州视界奇点科技有限公司
+- **全栈开发者** | 从嵌入式到 Web，从硬件到云端
+- **愿景** | 用技术让创意变成现实，帮助更多企业数字化升级
 
 > *"年轻不是劣势，是敢于打破常规的勇气。"*
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 **Languages**
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
@@ -43,33 +43,33 @@
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
-### 🎮 全向移动机器人控制系统
+### 全向移动机器人控制系统
 体感控制 + 麦克纳姆轮底盘的完美结合
 - 基于 IMU 的姿态识别与卡尔曼滤波
 - MQTT 通信协议实现低延迟控制
 - 嵌入式 C++ 与硬件深度整合
 
-### 🌐 视界奇点官网
+### 视界奇点官网
 [www.visularity.cn](https://www.visularity.cn)
 - 现代响应式设计，完美展示 150+ 项目案例
 - 流畅的动效与交互体验
 - 已服务多个行业的数字化转型需求
 
-### 📊 智能数据可视化平台
+### 智能数据可视化平台
 让数据讲故事的可视化解决方案
 - 实时数据流处理
 - 交互式图表与仪表盘
 - 企业级报表系统
 
-### 🤖 嵌入式物联网网关
+### 嵌入式物联网网关
 连接物理世界与数字世界的桥梁
 - 多协议支持（MQTT/HTTP/WebSocket）
 - 边缘计算能力
 - 工业级稳定性设计
 
-### ⚡ 快速开发脚手架
+### 快速开发脚手架
 提升效率的开发者工具集
 - 开箱即用的项目模板
 - 自动化构建与部署流程
@@ -77,7 +77,7 @@
 
 ---
 
-## 📈 GitHub Stats
+## GitHub Stats
 
 <div align="center">
 
@@ -88,7 +88,7 @@
 
 ---
 
-## 🌟 创业故事
+## 创业故事
 
 2024年，我18岁。
 
@@ -102,7 +102,7 @@
 
 ---
 
-## 📫 Connect With Me
+## Connect With Me
 
 <div align="center">
 
@@ -119,9 +119,9 @@
 
 <div align="center">
 
-### 💡 *"想法不值钱，执行力才是一切。"*
+### *"想法不值钱，执行力才是一切。"*
 
-⭐ 欢迎 Star 我的项目，一起创造更有价值的东西！
+欢迎 Star 我的项目，一起创造更有价值的东西！
 
 <img src="https://komarev.com/ghpvc/?username=lizuyi-6&color=blueviolet&style=flat-square" alt="Profile views" />
 
