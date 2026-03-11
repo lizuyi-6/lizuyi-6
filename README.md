@@ -1,8 +1,7 @@
+<!-- 顶部横幅图片 -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Abraham%20Li%20(李祖祎)&fontSize=50&fontAlignY=35" width="100%" />
+
 <div align="center">
-
-# 你好，我是 **李祖祎** (Abraham Li)
-
-> *"18岁，用代码构建世界"*
 
 <img src="https://img.shields.io/badge/大一学生-廊坊师范学院-0078D4?style=flat-square&logo=microsoft-academic&logoColor=white" />
 <img src="https://img.shields.io/badge/创始人-杭州视界奇点科技-FF6B6B?style=flat-square&logo=vercel&logoColor=white" />
