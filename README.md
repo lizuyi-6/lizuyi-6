@@ -3,7 +3,6 @@
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/大一学生-廊坊师范学院-0078D4?style=flat-square&logo=microsoft-academic&logoColor=white" />
 <img src="https://img.shields.io/badge/创始人-杭州视界奇点科技-FF6B6B?style=flat-square&logo=vercel&logoColor=white" />
 
 </div>
@@ -14,7 +13,6 @@
 
 我不是那种只会听课的学生。当同龄人还在适应大学生活时，我已经创立了自己的科技公司。
 
-- **大一在读** | 廊坊师范学院 · 计算机科学与技术
 - **公司创始人** | 杭州视界奇点科技有限公司
 - **全栈开发者** | 从嵌入式到 Web，从硬件到云端
 - **愿景** | 用技术让创意变成现实，帮助更多企业数字化升级
