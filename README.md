@@ -108,7 +108,6 @@
 [![Company](https://img.shields.io/badge/-视界奇点科技-FF6B6B?style=for-the-badge&logo=vercel&logoColor=white)](https://www.visularity.cn)
 
 **公司邮箱**: lizu@shijieqidian.cn  
-**手机**: 15227225280
 
 </div>
 
