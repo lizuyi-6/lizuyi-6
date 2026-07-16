@@ -1,113 +1,112 @@
-<!-- 顶部横幅图片 -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Abraham%20Li%20(李祖祎)&fontSize=50&fontAlignY=35" width="100%" />
-
 <div align="center">
 
-<img src="https://img.shields.io/badge/创始人-杭州视界奇点科技-FF6B6B?style=flat-square&logo=vercel&logoColor=white" />
+# 李祖祎 / Abraham Li
+
+### System Builder · AI · Edge Computing · Security Hardware · Full-stack
+
+19 岁 · 北京 ｜ 科技创业者 ｜ 软硬件全栈工程师
+
+[![Email](https://img.shields.io/badge/Email-2251213429%40qq.com-333333?style=flat-square&logo=gmail&logoColor=white)](mailto:2251213429@qq.com)
+[![GitHub](https://img.shields.io/badge/GitHub-lizuyi--6-181717?style=flat-square&logo=github)](https://github.com/lizuyi-6)
 
 </div>
 
 ---
 
-## About Me
+## About
 
-我不是那种只会听课的学生。当同龄人还在适应大学生活时，我已经创立了自己的科技公司。
+我关注的不是某一种语言或框架，而是如何把一个想法变成真正可以运行、部署和持续迭代的系统。
 
-- **公司创始人** | 杭州视界奇点科技有限公司
-- **全栈开发者** | 从嵌入式到 Web，从硬件到云端
-- **愿景** | 用技术让创意变成现实，帮助更多企业数字化升级
+能力范围覆盖 **AI 应用、后端服务、Web 产品、嵌入式设备、边缘计算与安全硬件**。我习惯从产品需求出发，完成架构设计、软硬件开发、部署测试与交付闭环，并在真实约束下处理安全边界、设备通信、数据持久化和工程可靠性问题。
 
-> *"年轻不是劣势，是敢于打破常规的勇气。"*
+- 创立并运营 **2 家科技公司**，具有从 0 到 1 组建团队、开发产品与推进商业化的经历
+- 项目获得 **天大海棠投资**支持
+- 网络安全硬件项目获得雄安新区支持，并获 **“雄才杯”创新创业大赛总决赛优胜奖**
+- **字节跳动众测专家**
+- 当前重点：AI Agent、工业智能设备、边缘系统、安全硬件与 AI 原生产品
 
----
+## What I Build
+
+| 方向 | 能力与关注点 |
+| --- | --- |
+| **AI Systems** | LLM 应用、Agent 工作流、多模型接入、文档与数据处理、模型安全评估 |
+| **Edge & Industrial** | 树莓派 / ESP32、设备通信、实时采集、离线运行、安全控制与工业上位机 |
+| **Security Engineering** | 网络安全硬件、安全测试数据集、检测策略、软硬件协同防护 |
+| **Product Engineering** | 产品定义、系统架构、全栈开发、数据库、测试、部署与持续迭代 |
+
+## Selected Projects
+
+### [ReactorOS](https://github.com/lizuyi-6/ReactorOS)
+
+运行在树莓派上的反应釜边缘上位机与安全控制 PoC。
+
+`Rust` `Tokio` `Axum` `SQLite` `ESP32` `Raspberry Pi` `Docker`
+
+- 采集温度、压力、转速、流量、浓度与 pH 等现场数据
+- 在本地完成安全限幅、批次记录、AI 推荐和 Web 上位机展示
+- 所有设备控制均经过安全边界校验并生成可审计事件
+- 支持串口桥接、离线运行、ARM64 交叉编译与 systemd 部署
+
+### [造场 / Zaochang](https://github.com/lizuyi-6/zaochang)
+
+面向创作者与早期产品的社区和产品孵化平台。
+
+`TypeScript` `React` `Next.js` `Vinext` `Cloudflare` `Drizzle D1` `Three.js`
+
+- 实现作品发布、互动试玩、点赞收藏、创作者动态、钱包与交易流水
+- 建立从创意展示、社区反馈到项目孵化的产品路径
+- 使用 Three.js 构建由 **4 个星系、12 颗行星**组成的沉浸式产品宇宙
+- 覆盖桌面端、移动端、构建测试与交互回归验证
+
+### [AetherGuard Security Dataset](https://github.com/lizuyi-6/aetherguard-security-dataset)
+
+用于评估 AI 驱动服务器防御系统的中文安全测试数据集。
+
+`Python` `Security Testing` `AI Evaluation` `CVE`
+
+- 收录 **4,500 个测试样本**，覆盖 **31 种攻击类型**
+- 包含多类 CVE 攻击场景、正常流量样本与分层测试集合
+- 面向检测率、误报率、响应延迟和资源占用进行评估
+
+### [AetherMind](https://github.com/lizuyi-6/aethermind)
+
+支持多模型、文件分析与多终端使用的本地智能体项目。
+
+`Python` `Flask` `LLM API` `Web` `WeChat Mini Program`
+
+- 支持 OpenAI、通义千问与自定义模型 API
+- 提供 CLI、Web 与微信小程序交互方式
+- 支持流式输出、上下文记录以及 PDF / Word / Excel 文件处理
+
+## Engineering Principles
+
+```text
+Build the whole system, not only the demo.
+Make safety boundaries explicit.
+Prefer observable and auditable behavior.
+Use AI to accelerate engineering, not replace engineering judgment.
+```
 
 ## Tech Stack
 
-**Languages**
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+**Languages**  
+`Rust` `Python` `C / C++` `TypeScript` `JavaScript`
 
-**Frontend**
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+**Application & Backend**  
+`React` `Next.js` `Node.js` `Flask` `FastAPI` `Axum` `REST API`
 
-**Backend & Tools**
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+**Data & Infrastructure**  
+`SQLite` `PostgreSQL` `Redis` `Docker` `Cloudflare` `Linux` `systemd`
 
----
+**Hardware & Protocols**  
+`ESP32` `Raspberry Pi` `MQTT` `UART / Serial` `RS485` `Embedded Systems`
 
-## Featured Projects
-
-### 全向移动机器人控制系统
-体感控制 + 麦克纳姆轮底盘的完美结合
-- 基于 IMU 的姿态识别与卡尔曼滤波
-- MQTT 通信协议实现低延迟控制
-- 嵌入式 C++ 与硬件深度整合
-
-### 视界奇点官网
-[www.visularity.cn](https://www.visularity.cn)
-- 现代响应式设计，完美展示 150+ 项目案例
-- 流畅的动效与交互体验
-- 已服务多个行业的数字化转型需求
-
-### 智能数据可视化平台
-让数据讲故事的可视化解决方案
-- 实时数据流处理
-- 交互式图表与仪表盘
-- 企业级报表系统
-
-### 嵌入式物联网网关
-连接物理世界与数字世界的桥梁
-- 多协议支持（MQTT/HTTP/WebSocket）
-- 边缘计算能力
-- 工业级稳定性设计
-
-### 快速开发脚手架
-提升效率的开发者工具集
-- 开箱即用的项目模板
-- 自动化构建与部署流程
-- 最佳实践封装
-
----
-
-## GitHub Stats
+## GitHub
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=lizuyi-6&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lizuyi-6&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
-
-</div>
-
----
-
-## 创业故事
-
-2025年，我18岁。
-
-当大多数人还在为高考后的假期计划时，我在杭州创立了**视界奇点科技有限公司**。
-
-从一个人、一台电脑开始，到如今完成 **150+** 个项目，服务客户覆盖多个行业，获得 **98%** 的客户满意度。
-
-这不仅是简历上的一行字，而是无数个通宵调试、与客户沟通、迭代优化的真实经历。
-
-**我相信**：技术能力 + 执行力 = 无限可能
-
----
-
-## Connect With Me
-
-<div align="center">
-
-[![Email](https://img.shields.io/badge/-2251213429@qq.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:2251213429@qq.com)
-[![GitHub](https://img.shields.io/badge/-lizuyi--6-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/lizuyi-6)
-[![Company](https://img.shields.io/badge/-视界奇点科技-FF6B6B?style=for-the-badge&logo=vercel&logoColor=white)](https://www.visularity.cn)
-
-**公司邮箱**: lizu@shijieqidian.cn  
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=lizuyi-6&show_icons=true&hide_border=true&include_all_commits=true&theme=transparent" alt="GitHub statistics" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lizuyi-6&layout=compact&hide_border=true&langs_count=8&theme=transparent" alt="Top languages" />
 
 </div>
 
@@ -115,10 +114,8 @@
 
 <div align="center">
 
-### *"想法不值钱，执行力才是一切。"*
+**Building useful systems across software, hardware and AI.**
 
-欢迎 Star 我的项目，一起创造更有价值的东西！
-
-<img src="https://komarev.com/ghpvc/?username=lizuyi-6&color=blueviolet&style=flat-square" alt="Profile views" />
+北京 · 2251213429@qq.com
 
 </div>
